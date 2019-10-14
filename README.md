@@ -12,6 +12,7 @@ Part1 : ANN
   Note: All the above notebboks are made to be run in colab environment.
   
   Author Details:
+  
   Ashish Dubey: 
     > Email: ashish.dubey2007@gmail.com
     > Linked: linkedin.com/in/hereisashish
